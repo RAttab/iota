@@ -1,0 +1,16 @@
+Makefile
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+*.cmake
+install_manifest.txt
+Testing
+bin
+lib
+
+.ninja_log
+.ninja_deps
+build.ninja
+rules.ninja
+
+compile_commands.json
